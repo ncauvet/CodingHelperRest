@@ -1,0 +1,7 @@
+C:\Users\ncauvet\Google Drive\Tech\c#\CodingHelperRest\CodingHelperRest\CodingHelperRest\CodingHelperRest\obj\x86\Debug\CodingHelperRest.Form1.resources
+C:\Users\ncauvet\Google Drive\Tech\c#\CodingHelperRest\CodingHelperRest\CodingHelperRest\CodingHelperRest\obj\x86\Debug\CodingHelperRest.Properties.Resources.resources
+C:\Users\ncauvet\Google Drive\Tech\c#\CodingHelperRest\CodingHelperRest\CodingHelperRest\CodingHelperRest\obj\x86\Debug\CodingHelperRest.csproj.GenerateResource.Cache
+C:\Users\ncauvet\Google Drive\Tech\c#\CodingHelperRest\CodingHelperRest\CodingHelperRest\CodingHelperRest\bin\Debug\CodingHelperRest.exe
+C:\Users\ncauvet\Google Drive\Tech\c#\CodingHelperRest\CodingHelperRest\CodingHelperRest\CodingHelperRest\bin\Debug\CodingHelperRest.pdb
+C:\Users\ncauvet\Google Drive\Tech\c#\CodingHelperRest\CodingHelperRest\CodingHelperRest\CodingHelperRest\obj\x86\Debug\CodingHelperRest.exe
+C:\Users\ncauvet\Google Drive\Tech\c#\CodingHelperRest\CodingHelperRest\CodingHelperRest\CodingHelperRest\obj\x86\Debug\CodingHelperRest.pdb

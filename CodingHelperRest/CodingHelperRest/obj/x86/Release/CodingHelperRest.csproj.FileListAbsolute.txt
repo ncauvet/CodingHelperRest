@@ -1,0 +1,3 @@
+C:\Users\ncauvet\Google Drive\Tech\c#\CodingHelperRest\CodingHelperRest\CodingHelperRest\CodingHelperRest\obj\x86\Release\CodingHelperRest.Form1.resources
+C:\Users\ncauvet\Google Drive\Tech\c#\CodingHelperRest\CodingHelperRest\CodingHelperRest\CodingHelperRest\obj\x86\Release\CodingHelperRest.Properties.Resources.resources
+C:\Users\ncauvet\Google Drive\Tech\c#\CodingHelperRest\CodingHelperRest\CodingHelperRest\CodingHelperRest\obj\x86\Release\CodingHelperRest.csproj.GenerateResource.Cache
